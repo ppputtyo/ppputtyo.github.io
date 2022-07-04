@@ -18,7 +18,7 @@
 
 
 ## [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
-<img src="image/TrainDash.jpg" width="50%">
+<img src="image/TrainDash.jpg" width="60%">
 
 最寄りの駅の電車出発時刻をカウントダウン形式で表示するアプリ
 
