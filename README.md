@@ -33,6 +33,7 @@
 
 - [GitHub](https://github.com/ppputtyo)
 - [AtCoder](https://atcoder.jp/users/ppputtyo)
+- [Kaggle](https://www.kaggle.com/ppputtyo)
 
 
 <!-- Algorithm: highest 1071
