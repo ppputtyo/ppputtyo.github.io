@@ -35,6 +35,9 @@
 - [AtCoder](https://atcoder.jp/users/ppputtyo)
 - [Kaggle](https://www.kaggle.com/ppputtyo)
 
+## 保有している資格
+
+- 基本情報技術者
 
 <!-- Algorithm: highest 1071
 
