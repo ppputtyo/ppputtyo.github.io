@@ -2,7 +2,7 @@
 
 ## 関わった製作物
 
-### [<img src="image/formatter_logo.png" width="30%">](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
+## [<img src="image/formatter_logo.png" width="30%">](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
 
 
 
@@ -17,13 +17,13 @@
 -   ワンクリックでフォーマットしたものを DeepL で翻訳
 
 
-### [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
+## [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
 <img src="image/TrainDash.jpg" width="50%">
 
 最寄りの駅の電車出発時刻をカウントダウン形式で表示するアプリ
 
 
-### [LaboratoryGo](https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo)
+## [LaboratoryGo](https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo)
 研究室にいるゼミ生の出席、離席、退席について確認することができるアプリ
 
 研究室ごとにパスワードをかけることができ、研究室ログイン後にマイアカウントを作成することで出席、離席、退席の変更、メモ帳機能の利用ができる．
