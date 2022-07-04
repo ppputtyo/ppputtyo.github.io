@@ -2,9 +2,9 @@
 
 ## 関わった製作物
 
-### [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
+### [<img src="image/formatter_logo.png" width="30%">](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
 
-<img src="image/formatter_logo.png" width="50%">
+
 
 英字論文を DeepL で正しく翻訳されるようにフォーマットするツールです。
 現在機能は以下の通り。
