@@ -6,6 +6,16 @@
 
 <b>2022~現在</b> 大阪大学大学院情報科学研究科コンピュータサイエンス専攻
 
+## 保有している資格
+- 基本情報技術者
+
+## アカウントURL
+
+- [GitHub](https://github.com/ppputtyo)
+- [AtCoder](https://atcoder.jp/users/ppputtyo)
+- [Kaggle](https://www.kaggle.com/ppputtyo)
+- [Twitter](https://twitter.com/p_kyopro)
+
 ## 関わったもの
 
 ## [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
@@ -35,15 +45,9 @@
 研究室ごとにパスワードをかけることができ、研究室ログイン後にマイアカウントを作成することで出席、離席、退席の変更、メモ帳機能の利用ができる．
 
 
-## アカウントURL
 
-- [GitHub](https://github.com/ppputtyo)
-- [AtCoder](https://atcoder.jp/users/ppputtyo)
-- [Kaggle](https://www.kaggle.com/ppputtyo)
 
-## 保有している資格
 
-- 基本情報技術者
 
 <!-- Algorithm: highest 1071
 
