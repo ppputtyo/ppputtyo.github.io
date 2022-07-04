@@ -4,6 +4,8 @@
 
 ### [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
 
+<img src="image/formatter_logo.png" width="50%">
+
 英字論文を DeepL で正しく翻訳されるようにフォーマットするツールです。
 現在機能は以下の通り。
 -   数学用英数字記号 → 普通の英数字 (例: 𝔸→A)
@@ -16,6 +18,7 @@
 
 
 ### [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
+<img src="image/TrainDash.jpg" width="50%">
 
 最寄りの駅の電車出発時刻をカウントダウン形式で表示するアプリ
 
