@@ -2,14 +2,10 @@
 
 ## 関わった製作物
 
-# 英字論文フォーマッタ
+### [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
 
-[URL](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
-
-<br>
 英字論文を DeepL で正しく翻訳されるようにフォーマットするツールです。
 現在機能は以下の通り。
-
 -   数学用英数字記号 → 普通の英数字 (例: 𝔸→A)
 -   改行 → 半角スペース
 -   改行で分割された単語の復元 (例:imple-[改行]ment→implement)
@@ -19,21 +15,22 @@
 -   ワンクリックでフォーマットしたものを DeepL で翻訳
 
 
-# TrainDash
-[URL](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
+### [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
 
-# LaboratoryGo
-[URL](https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo)
+最寄りの駅の電車出発時刻をカウントダウン形式で表示するアプリ
+
+
+### [LaboratoryGo](https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo)
+研究室にいるゼミ生の出席、離席、退席について確認することができるアプリ
+
+研究室ごとにパスワードをかけることができ、研究室ログイン後にマイアカウントを作成することで出席、離席、退席の変更、メモ帳機能の利用ができる．
 
 
 ## アカウントURL
 
-## GitHub
-[github](https://github.com/ppputtyo)
+- [GitHub](https://github.com/ppputtyo)
+- [AtCoder](https://atcoder.jp/users/ppputtyo)
 
-
-## AtCoder
-[AtCoder](https://atcoder.jp/users/ppputtyo)
 
 <!-- Algorithm: highest 1071
 
