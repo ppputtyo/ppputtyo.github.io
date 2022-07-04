@@ -19,7 +19,7 @@
 ## 関わったもの
 
 ## [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
-<img src="image/formatter_logo.png" width="40%">
+<img src="image/formatter_logo.png" height="40px">
 
 
 英字論文を DeepL で正しく翻訳されるようにフォーマットするツールです。
@@ -34,7 +34,7 @@
 
 
 ## [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
-<img src="image/TrainDash.jpg" width="60%">
+<img src="image/TrainDash.jpg" height="270px">
 
 最寄りの駅の電車出発時刻をカウントダウン形式で表示するアプリ
 
