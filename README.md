@@ -2,10 +2,11 @@
 
 
 ## 経歴
-2018~2022 大阪大学基礎工学部情報科学科
-2022~現在 大阪大学大学院情報科学研究科
+<b>2018~2022</b> 大阪大学基礎工学部情報科学科
 
-## 関わった製作物
+<b>2022~現在</b> 大阪大学大学院情報科学研究科コンピュータサイエンス専攻
+
+## 関わったもの
 
 ## [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
 <img src="image/formatter_logo.png" width="40%">
