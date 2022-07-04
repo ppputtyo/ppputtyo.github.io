@@ -1,22 +1,18 @@
 # ppputtyoのホームページ
 
 ## 作ったもの
-### 英字論文フォーマッタ
-http://to-normal-code.herokuapp.com/to-normal-code
+[英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code)
 
-### TrainDash
-https://train-front.vercel.app/
+[TrainDash](https://train-front.vercel.app/)
 
-### LaboratoryGo
-https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo
 
-## github
-https://github.com/ppputtyo
+[LaboratoryGo](https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo)
 
-## AtCoder
-https://atcoder.jp/users/ppputtyo
+[github](https://github.com/ppputtyo)
 
-Algorithm: highest 1071
+[AtCoder](https://atcoder.jp/users/ppputtyo)
 
-Heuristic: highest 1371
+<!-- Algorithm: highest 1071
+
+Heuristic: highest 1371 -->
 
