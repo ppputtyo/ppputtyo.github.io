@@ -15,6 +15,7 @@
 - [AtCoder](https://atcoder.jp/users/ppputtyo)
 - [Kaggle](https://www.kaggle.com/ppputtyo)
 - [Twitter](https://twitter.com/p_kyopro)
+- [Qiita](https://qiita.com/ppputtyo)
 
 ## 関わったもの
 
