@@ -19,7 +19,7 @@
 
 ## 関わったもの
 
-## [英字論文フォーマッタ](http://to-normal-code.herokuapp.com/to-normal-code) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
+## [英字論文フォーマッタ](https://to-normal-code.onrender.com/) ([GitHub](https://github.com/ppputtyo/ToNormalCode))
 <img src="image/formatter_logo.png" height="35px">
 
 
