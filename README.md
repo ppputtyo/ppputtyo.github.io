@@ -50,5 +50,5 @@
 
 - [Render.com 無料プランのスリープ対策 - Qiita](https://qiita.com/ppputtyo/items/2ab44303dcfabeb7b23e)
 - [Laravel9 アプリを Docker+nginx で Render.com にデプロイする方法 - Qiita](https://qiita.com/ppputtyo/items/80bccea017fae16e9864)
-- [Engineer Camp2022 Rust で SQL フォーマッタ作成（後編） | フューチャー技術ブログ](https://future-architect.github.io/articles/20220916c/)
-- [Engineer Camp2022 Rust で SQL フォーマッタ作成（前編） | フューチャー技術ブログ](https://future-architect.github.io/articles/20220916b/)
+- [Engineer Camp2022 Rust で SQL フォーマッタ作成（後編） \| フューチャー技術ブログ](https://future-architect.github.io/articles/20220916c/)
+- [Engineer Camp2022 Rust で SQL フォーマッタ作成（前編） \| フューチャー技術ブログ](https://future-architect.github.io/articles/20220916b/)
