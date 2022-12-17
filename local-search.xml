@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>profile</title>
+    <link href="ppputtyo.github.io/2022/12/17/profile/"/>
+    <url>ppputtyo.github.io/2022/12/17/profile/</url>
+    
+    <content type="html"><![CDATA[<h2 id="自己紹介"><a href="#自己紹介" class="headerlink" title="自己紹介"></a>自己紹介</h2><p>はじめまして、ppputtyo です。大学院ではソフトウェア工学について学んでいます。</p><p>趣味は Web アプリ作成、筋トレ、競プロです。</p><h2 id="各種アカウント"><a href="#各種アカウント" class="headerlink" title="各種アカウント"></a>各種アカウント</h2><ul><li><a href="https://github.com/ppputtyo">GitHub</a></li><li><a href="https://atcoder.jp/users/ppputtyo">AtCoder</a></li><li><a href="https://twitter.com/p_kyopro">Twitter</a></li><li><a href="https://qiita.com/ppputtyo">Qiita</a></li></ul><!-- ## 経歴<b>2018~2022</b> 大阪大学基礎工学部情報科学科<b>2022~現在</b> 大阪大学大学院情報科学研究科コンピュータサイエンス専攻<a id="保有資格"></a>## 保有資格- 基本情報技術者 --><p><a id="作成に関わったもの"></a></p><h2 id="作成に関わったもの"><a href="#作成に関わったもの" class="headerlink" title="作成に関わったもの"></a>作成に関わったもの</h2><p><a id="英字論文フォーマッタ"></a></p><h2 id="英字論文フォーマッタ-GitHub"><a href="#英字論文フォーマッタ-GitHub" class="headerlink" title="英字論文フォーマッタ (GitHub)"></a><a href="https://to-normal-code.onrender.com/">英字論文フォーマッタ</a> (<a href="https://github.com/ppputtyo/ToNormalCode">GitHub</a>)</h2><img src="/img/formatter_logo.png" height="35px"><p>英字論文を DeepL で正しく翻訳されるようにフォーマットするツールです。<br>現在機能は以下の通りです。</p><ul><li>数学用英数字記号 → 普通の英数字 (例: 𝔸→A)</li><li>改行 → 半角スペース</li><li>改行で分割された単語の復元 (例:imple-[改行]ment→implement)</li><li>2 つ以上連続する改行は無視する</li><li>文末で改行する</li><li>5000 文字を超えた場合に分割して DeepL で翻訳する</li><li>ワンクリックでフォーマットしたものを DeepL で翻訳</li></ul><p><a id="AtCoderHeaderMaker"></a></p><h2 id="AtCoderHeaderMaker"><a href="#AtCoderHeaderMaker" class="headerlink" title="AtCoderHeaderMaker"></a><a href="https://github.com/ppputtyo/AtCoderHeaderMaker">AtCoderHeaderMaker</a></h2><p>以下のようなヘッダ画像を自動で作成できるツールです。</p><img src="https://user-images.githubusercontent.com/52311998/203693583-d6ce0ac7-dc3d-4946-a9b8-484cd842ab17.png" width=500><p><a id="TrainDash"></a></p><h2 id="TrainDash-GitHub"><a href="#TrainDash-GitHub" class="headerlink" title="TrainDash (GitHub)"></a><a href="https://train-front.vercel.app/">TrainDash</a> (<a href="https://github.com/yuzuki-aritomo/train_front">GitHub</a>)</h2><img src="/img/TrainDash.jpg" height="250px"><p>最寄りの駅の電車出発時刻をカウントダウン形式で表示するアプリです。</p><p><a id="LaboratoryGo"></a></p><h2 id="LaboratoryGo"><a href="#LaboratoryGo" class="headerlink" title="LaboratoryGo"></a><a href="https://play.google.com/store/apps/details?id=ac.inoue.laboratorygo">LaboratoryGo</a></h2><p>研究室にいるゼミ生の出席、離席、退席について確認することができるアプリです。</p><p>研究室ごとにパスワードをかけることができ、研究室ログイン後にマイアカウントを作成することで出席、離席、退席の変更、メモ帳機能の利用ができます。</p><p><a id="書いた記事"></a></p><h2 id="書いた記事"><a href="#書いた記事" class="headerlink" title="書いた記事"></a>書いた記事</h2><ul><li><a href="https://future-architect.github.io/articles/20221125a/">Language Server Protocol を用いた VSCode 拡張機能開発 (後編) | フューチャー技術ブログ</a></li><li><a href="https://future-architect.github.io/articles/20221124a/">Language Server Protocol を用いた VSCode 拡張機能開発 (前編) | フューチャー技術ブログ</a></li><li><a href="https://qiita.com/ppputtyo/items/2ab44303dcfabeb7b23e">Render.com 無料プランのスリープ対策 - Qiita</a></li><li><a href="https://qiita.com/ppputtyo/items/80bccea017fae16e9864">Laravel9 アプリを Docker+nginx で Render.com にデプロイする方法 - Qiita</a></li><li><a href="https://future-architect.github.io/articles/20220916c/">Engineer Camp2022 Rust で SQL フォーマッタ作成（後編） | フューチャー技術ブログ</a></li><li><a href="https://future-architect.github.io/articles/20220916b/">Engineer Camp2022 Rust で SQL フォーマッタ作成（前編） | フューチャー技術ブログ</a></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
