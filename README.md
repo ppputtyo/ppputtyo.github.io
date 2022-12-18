@@ -36,8 +36,9 @@
 
 
 ## [AtCoderHeaderMaker](https://github.com/ppputtyo/AtCoderHeaderMaker)
-以下のようなTwitter用ヘッダー画像を作成できます。
-<img src="https://user-images.githubusercontent.com/52311998/203693576-80f6c6c5-201d-4373-8f9b-f2caa591c842.png" height="250px">
+以下のようなTwitter用ヘッダー画像をGitHub Actionsで作成できます。
+
+<img src="https://user-images.githubusercontent.com/52311998/203693576-80f6c6c5-201d-4373-8f9b-f2caa591c842.png" width="450px">
 
 
 ## [TrainDash](https://train-front.vercel.app/) ([GitHub](https://github.com/yuzuki-aritomo/train_front))
