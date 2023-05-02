@@ -56,6 +56,9 @@
 研究室ごとにパスワードをかけることができ、研究室ログイン後にマイアカウントを作成することで出席、離席、退席の変更、メモ帳機能の利用ができる．
 
 ## 書いた記事
+### 2023
+- [serenity&songbirdを使ってRustでDiscordの音楽botを作ろう - Qiita](https://qiita.com/ppputtyo/items/bf95c9ccdba3b6042031)
+
 ### 2022
 - [Rust製SQLフォーマッタをnapi-rsを利用してVSCode拡張機能化 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20221228a/)
 - [Language Server Protocolを用いたVSCode拡張機能開発 (後編) \| フューチャー技術ブログ](https://future-architect.github.io/articles/20221125a/)
