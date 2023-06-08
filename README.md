@@ -57,6 +57,7 @@
 
 ## 書いた記事
 ### 2023
+- [C/C++を呼び出しているRustのWASM化 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20230605a/)
 - [serenity&songbirdを使ってRustでDiscordの音楽botを作ろう - Qiita](https://qiita.com/ppputtyo/items/bf95c9ccdba3b6042031)
 
 ### 2022
