@@ -57,6 +57,7 @@
 
 ## 書いた記事
 ### 2023
+- [RustでAtCoderのログイン認証を通す - Qiita](https://qiita.com/ppputtyo/items/e724f68eeb912b00290d)
 - [launch4jをコマンドラインで実行する方法 - Qiita](https://qiita.com/ppputtyo/items/c3a34fe42c5771657e19)
 - [Rustでタイムアウト時間を設定して外部コマンドを実行する方法 - Qiita](https://qiita.com/ppputtyo/items/d2143dfd1ca7ac384952)
 - [C/C++を呼び出しているRustのWASM化 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20230605a/)
